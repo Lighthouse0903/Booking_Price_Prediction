@@ -60,10 +60,6 @@ The dataset is collected and processed from [Booking.com](https://www.booking.co
      ```bash
      python crawlbookings.py
      ```
-4. Run the main script:
-   ```bash
-   python main.py
-   ```
 
 ## Future Development
 - Collect additional data to enhance prediction accuracy.
